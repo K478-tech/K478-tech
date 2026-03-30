@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,100:16213e&height=220&section=header&text=Karan%20Choudhary&fontSize=56&fontColor=e0e0e0&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer&descAlignY=60&descSize=18&descColor=7c9cbf&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,40:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Karan%20Choudhary&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Electronics%20%26%20Telecommunication%20Engineer&amp;descAlignY=60&amp;descSize=18&amp;descColor=7c9cbf&amp;animation=twinkling&amp;stroke=7c9cbf&amp;strokeWidth=2"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=7C9CBF&center=true&vCenter=true&width=700&lines=PCB+Designer+%7C+Embedded+Systems+Engineer;VLSI+%7C+IoT+%7C+STM32+%7C+ESP32+%7C+Cadence;AI+%2B+Hardware+%3D+Real-World+Solutions;3rd+Year+ENTC+%40+MMCOE+Pune+%F0%9F%8F%86+Dept.+Topper" alt="Typing SVG" />
@@ -47,14 +47,14 @@ endmodule
 
 <div align="center">
 
-### HDL & Programming
+### HDL and Programming
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C%2FC++-555555?style=flat-square&logo=c&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_(Basic)-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### VLSI & EDA Tools
+### VLSI and EDA Tools
 ![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-005F9E?style=flat-square&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=flat-square&logo=amd&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
@@ -63,20 +63,20 @@ endmodule
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF6600?style=flat-square&logo=mathworks&logoColor=white)
 
-### Microcontrollers & Hardware
+### Microcontrollers and Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![PIC18F](https://img.shields.io/badge/PIC18F-ED1C24?style=flat-square&logoColor=white)
 
-### Protocols & Interfaces
+### Protocols and Interfaces
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-333333?style=flat-square&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-333333?style=flat-square&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-333333?style=flat-square&logoColor=white)
 ![JTAG](https://img.shields.io/badge/JTAG-333333?style=flat-square&logoColor=white)
 
-### Web & Backend
+### Web and Backend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -118,7 +118,7 @@ endmodule
 
 > **Real-time computer vision for emergency vehicle signal clearance**
 
-- 🎯 YOLO-based real-time vehicle & ambulance detection — automated emergency signal clearance
+- 🎯 YOLO-based real-time vehicle and ambulance detection — automated emergency signal clearance
 - 📡 Deep-SORT algorithm for multi-object tracking across multiple intersections
 - ⚡ Dynamic traffic light optimisation reducing simulated emergency response time significantly
 - 🔀 Explored hardware-software co-design tradeoffs integrating vision pipeline with embedded control
@@ -158,7 +158,7 @@ endmodule
 </details>
 
 <details>
-<summary><b>🏪 Business Operations — Mahalaxmi Hardware & Electricals</b> &nbsp;|&nbsp; <i>2018–Present · Family Business, Pune</i></summary>
+<summary><b>🏪 Business Operations — Mahalaxmi Hardware and Electricals</b> &nbsp;|&nbsp; <i>2018–Present · Family Business, Pune</i></summary>
 <br/>
 
 - Managed customer handling, billing, and inventory for an electrical components business
@@ -175,7 +175,7 @@ endmodule
 
 | 🏅 | Achievement | Details |
 |---|---|---|
-| 🥇 | **Department Topper — 1st Year** | Ranked **1st** in E&TC at MMCOE · CGPA **9.84** |
+| 🥇 | **Department Topper — 1st Year** | Ranked **1st** in E&amp;TC at MMCOE · CGPA **9.84** |
 | 🥈 | **Smart India Hackathon (Internal)** | **2nd Rank** — Project shortlisted in **Top 8 nationally** |
 | 📈 | **Consistent Academic Excellence** | CGPA above **9.0** across all completed semesters |
 
@@ -189,17 +189,17 @@ endmodule
 |---|---|
 | ⚡ VLSI Design | Cadence Virtuoso · Vivado · Icarus Verilog — RTL-to-layout flow |
 | 🖨️ PCB Basic Design | Altium Designer — schematic capture, layout, DRC |
-| 🔤 Hardware Modelling | Verilog-based digital design & testbench development |
-| 📊 MATLAB & Simulink | MathWorks Onramp + Simulink Fundamentals |
-| 🔌 Circuit Simulation | Analog & mixed-signal simulation |
-| 🌐 Networking Basics | Foundational networking & communication protocols |
+| 🔤 Hardware Modelling | Verilog-based digital design and testbench development |
+| 📊 MATLAB and Simulink | MathWorks Onramp + Simulink Fundamentals |
+| 🔌 Circuit Simulation | Analog and mixed-signal simulation |
+| 🌐 Networking Basics | Foundational networking and communication protocols |
 
 ---
 
 ## 📚 Education
 
 ```
-🎓  B.E. Electronics & Telecommunication Engineering          2022 – Present
+🎓  B.E. Electronics and Telecommunication Engineering          2022 – Present
     Marathwada Mitra Mandal College of Engineering (MMCOE), Pune — SPPU
     ├── 1st Year CGPA : 9.84  ← 🏆 Department Topper (Ranked 1st)
     ├── 2nd Year CGPA : 9.065
@@ -218,7 +218,7 @@ endmodule
 
 ## 📖 Relevant Coursework
 
-`Digital Electronics & Logic Design` · `Analog Circuits` · `Semiconductor Device Physics` · `VLSI Design` · `Signals & Systems` · `Microprocessors & Microcontrollers` · `Cellular Networks` · `Electronic Circuit Design` · `Power Devices & Circuits`
+`Digital Electronics and Logic Design` · `Analog Circuits` · `Semiconductor Device Physics` · `VLSI Design` · `Signals and Systems` · `Microprocessors and Microcontrollers` · `Cellular Networks` · `Electronic Circuit Design` · `Power Devices and Circuits`
 
 ---
 
@@ -250,6 +250,6 @@ endmodule
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,60:1a1a2e,100:0a0a0a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,60:1a1a2e,100:0a0a0a&amp;height=120&amp;section=footer"/>
 
 </div>
