@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,40:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Karan%20Choudhary&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Electronics%20%26%20Telecommunication%20Engineer&amp;descAlignY=60&amp;descSize=18&amp;descColor=7c9cbf&amp;animation=twinkling&amp;stroke=7c9cbf&amp;strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,100:16213e&height=220&section=header&text=Karan%20Choudhary&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer&descAlignY=60&descSize=18&descColor=7c9cbf&animation=twinkling&stroke=7c9cbf&strokeWidth=2"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=7C9CBF&center=true&vCenter=true&width=700&lines=PCB+Designer+%7C+Embedded+Systems+Engineer;VLSI+%7C+IoT+%7C+STM32+%7C+ESP32+%7C+Cadence;AI+%2B+Hardware+%3D+Real-World+Solutions;3rd+Year+ENTC+%40+MMCOE+Pune+%F0%9F%8F%86+Dept.+Topper" alt="Typing SVG" />
@@ -250,6 +250,6 @@ endmodule
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,60:1a1a2e,100:0a0a0a&amp;height=120&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,60:1a1a2e,100:0a0a0a&height=120&section=footer"/>
 
 </div>
